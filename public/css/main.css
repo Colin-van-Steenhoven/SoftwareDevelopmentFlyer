@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav-bar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    width: 960px;
+    margin: 0 auto;
+}
+header img{
+    padding-right: 35px;
+    padding-top: 10px;
+}
+header{
+    font-family: Fellix,"Open Sans",sans-serif;
+    font-weight: bold;
+}
+main{
+    font-family: Fellix,"Open Sans",sans-serif;
+    margin-top: 20px;
+}
+body main h2{
+    font-family: Fellix,"Open Sans",sans-serif;
+    font-weight: bold;
+}
