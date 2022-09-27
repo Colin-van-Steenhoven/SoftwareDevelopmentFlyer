@@ -14,7 +14,7 @@ html{
     color: #004c35;
 }
 .container{
-    width: 940px;
+    width: 960px;
     margin: 0 auto;
 }
 header img{
@@ -40,4 +40,26 @@ body main h2{
     justify-content: space-between;
     border-radius: 15px;
     width: 1051px;
+}
+.laptopRooster{
+    color: #004c35;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.imageSchool{
+    grid-column-start: 1;
+    margin-top: 80px;
+}
+.imageSchool img{
+    width: 525px;
+    border-radius: 20px;
+}
+.infoRooster{
+    grid-column-start: 2;
+    background: #004c35;
+    color: #d7a800;
+    padding: 20px;
+    border-radius: 20px;
+    width: 550px;
+    height: 350px;
 }
