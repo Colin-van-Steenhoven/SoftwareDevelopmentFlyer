@@ -27,6 +27,8 @@
     </header>
     <div class="container">
     <main>
+        <div class="infoSD">
+            <div class="infoSDtext">
         <h2>Over Software Development</h2>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
              Alias a magnam pariatur molestiae corporis sapiente suscipit reiciendis quae id hic!
@@ -36,6 +38,33 @@
               licabo sequi officia ex eveniet sint fugit pariatur sapiente a odio aliquid amet exercitati
               onem quas vero repellat id eius veritatis? Cum, nihil dignissimos impedit quae iusto veritatis laudantium ex!
         </p>
+            </div>
+        <img src="img/Laptop-IMG.png" alt="">
+        </div>
+        <div class="container">
+    <main>
+        <div class="laptopRooster">
+            <div class="infoLaptoptext">
+        <h2>Laptop</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+             Alias a magnam pariatur molestiae corporis sapiente suscipit reiciendis quae id hic!
+              Nulla vel minus necessitatibus ipsa beatae at tempora dolor quam laboriosam voluptate 
+              obcaecati iusto nobis impedit magni modi reprehenderit iure quod facilis, magnam tempore 
+              unde, commodi reiciendis. Deserunt ab doloribus dolorem facere ipsum nemo voluptas hic, exp
+              licabo sequi officia ex eveniet sint fugit pariatur sapiente a odio aliquid amet exercitati
+              onem quas vero repellat id eius veritatis? Cum, nihil dignissimos impedit quae iusto veritatis laudantium ex!
+        </p>
+            </div>
+            <h2>Rooster</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+             Alias a magnam pariatur molestiae corporis sapiente suscipit reiciendis quae id hic!
+              Nulla vel minus necessitatibus ipsa beatae at tempora dolor quam laboriosam voluptate 
+              obcaecati iusto nobis impedit magni modi reprehenderit iure quod facilis, magnam tempore 
+              unde, commodi reiciendis. Deserunt ab doloribus dolorem facere ipsum nemo voluptas hic, exp
+              licabo sequi officia ex eveniet sint fugit pariatur sapiente a odio aliquid amet exercitati
+              onem quas vero repellat id eius veritatis? Cum, nihil dignissimos impedit quae iusto veritatis laudantium ex!
+        </p>
+        </div>
     </main>
         <footer>
         

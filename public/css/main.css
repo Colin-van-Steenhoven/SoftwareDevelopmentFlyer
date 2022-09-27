@@ -2,13 +2,19 @@
     margin: 0;
     padding: 0;
 }
+html{
+    background-color: #d7a800;
+}
 .nav-bar{
     display: flex;
     justify-content: center;
     align-items: center;
+    padding-bottom: 40px;
+    padding-top: 30px;
+    color: #004c35;
 }
 .container{
-    width: 960px;
+    width: 940px;
     margin: 0 auto;
 }
 header img{
@@ -26,4 +32,12 @@ main{
 body main h2{
     font-family: Fellix,"Open Sans",sans-serif;
     font-weight: bold;
+}
+.infoSD{
+    color: #004c35;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 15px;
+    width: 1051px;
 }
