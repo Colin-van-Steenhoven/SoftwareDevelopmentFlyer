@@ -59,9 +59,79 @@
             </div>
         </div>
     </main>
-        <footer>
+        <footer class="footer">
+  <div class="footer__addr">
+    <img src="img/Curio-Logo.png" alt="" class="footer__logo">
+        
+    <h2>Contact</h2>
+    
+    <address>
+    Terheijdenseweg 350, 4826 AA Breda<br>
+          
+      <a class="footer__btn" href="mailto:example@gmail.com">Email Us</a>
+    </address>
+  </div>
+  
+  <ul class="footer__nav">
+    <li class="nav__item">
+      <h2 class="nav__title">Media</h2>
 
-        </footer>
+      <ul class="nav__ul">
+        <li>
+          <a href="#">Lorem</a>
+        </li>
+
+        <li>
+          <a href="#">Lorem</a>
+        </li>
+            
+        <li>
+          <a href="#">Lorem</a>
+        </li>
+      </ul>
+    </li>
+    
+    <li class="nav__item">
+      <h2 class="nav__title">Technology</h2>
+      
+      <ul class="nav__ul">
+        <li>
+          <a href="#">Lorem</a>
+        </li>
+        
+        <li>
+          <a href="#">Lorem</a>
+        </li>
+        
+        <li>
+          <a href="#">Lorem</a>
+        </li>
+      </ul>
+    </li>
+    
+    <li class="nav__item">
+      <h2 class="nav__title">Legal</h2>
+      
+      <ul class="nav__ul">
+        <li>
+          <a href="#">Lorem</a>
+        </li>
+        
+        <li>
+          <a href="#">Lorem</a>
+        </li>
+        
+        <li>
+          <a href="#">Lorem</a>
+        </li>
+      </ul>
+    </li>
+  </ul>
+  
+  <div class="legal">
+    <p>&copy; 2022 Curio. All rights reserved.</p>
+  </div>
+</footer>
     </div>
     </body>
 
